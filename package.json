@@ -1,0 +1,22 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "studbud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryTANG0520/StudBud.git"
+  },
+  "keywords": [
+    "studbud"
+  ],
+  "author": "Chengrui Tang (Henry)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryTANG0520/StudBud/issues"
+  },
+  "homepage": "https://github.com/HenryTANG0520/StudBud#readme"
+}
