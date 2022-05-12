@@ -4,7 +4,8 @@
   "description": "studbud",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/HenryTANG0520/StudBud/issues"
   },
-  "homepage": "https://github.com/HenryTANG0520/StudBud#readme"
+  "homepage": "https://github.com/HenryTANG0520/StudBud#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+
 }
