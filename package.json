@@ -2,7 +2,7 @@
   "name": "studbud",
   "version": "1.0.0",
   "description": "studbud",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -22,6 +22,8 @@
   "homepage": "https://github.com/HenryTANG0520/StudBud#readme",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
   }
-
 }
