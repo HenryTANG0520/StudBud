@@ -2,7 +2,7 @@
 
 .sidenav {
     height: 100%;
-    width: 160px;
+    width: 25%;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -16,6 +16,7 @@
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
+    font-style: none;
     color: #818181;
     display: block;
   }
@@ -24,8 +25,10 @@
     color: #f1f1f1;
   }
   
-  .main {
-    margin-left: 160px; /* Same as the width of the sidenav */
-    font-size: 28px; /* Increased text to enable scrolling */
+ .main {
+    margin-left: 25%; 
+    /* Same as the width of the sidenav */
+    font-size: 28px; 
+    /* Increased text to enable scrolling */
     padding: 0px 10px;
   }
