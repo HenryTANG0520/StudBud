@@ -1,4 +1,4 @@
-@import "public/scss/main.scss";
+@import url("public/scss/main.scss");
 
 .sidenav {
     height: 100%;

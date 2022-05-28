@@ -27,6 +27,24 @@
     margin-left: 25%; 
     /* Same as the width of the sidenav */
     font-size: 28px; 
-    /* Increased text to enable scrolling */
-    padding: 0px 10px;
+    
+  }
+
+  .title {
+    font-size: 1.5em;
+  }
+  .function{
+    margin:2%;
+    padding: 1%;
+    width: 94%;
+    height: 1000px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #555; */
+    border-radius: 50px;
+    height : 80%;
+    background-color: #ccc;
+  }
+  .content{
+    margin-bottom: 50%;
   }
