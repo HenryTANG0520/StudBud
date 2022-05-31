@@ -6,26 +6,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="scss/main.scss" rel="stylesheet" type="text/css" />
-    
+    <meta http-equiv="Cache-control" content="no-cache">
+    <link rel="icon" type="image/x-icon" href="img/logo_Sq.ico">
     <title>Studbud</title>
 
 </head>
 
 <body>
-    <h1>StudBud</h1>
-    <div class="sidenav">
-        <div class="acount">
-            <div id="greeting">
-                <p>Evening</p>
+    <nav class="sidenav">
+
+        <div class="account">
+            <div class="text">
+                <div id="greeting">
+                    <p>Evening</p>
+                </div>
+                <div id="userName">
+                    <p>程澄</p>
+                </div>
             </div>
-            <div id="userName">
-                <p>程澄</p>
-            </div>
+           
             <img src="img/portrait.JPG" alt="userPortrait" id="portrait">
         </div>
         <div class="functionList">
-            <a href="#taskManager">
-                <h2>Task Manager</h2>
+            <a href="#taskList">
+                <h2>Task List</h2>
             </a>
             <a href="#flowTimeTracker">
                 <h2>Flow Time tracker</h2>
@@ -37,25 +41,50 @@
                 <h2>Dictionary</h2>
             </a>
         </div>
-        <div class="musicPlayer"></div>
-    </div>
+
+        <!-- <div class="musicPlayer">
+            <img src="img/music.png" alt="Album_Cover">
+            <div class="info">
+                <div class="song"><p>song</p></div>
+                <div class="singer"><p>singer</p></div>
+            </div>
+            <div class="btn">
+                <div class="play">
+                    <img src="img/play.png" alt="play">
+                </div>
+                <div class="next">
+                    <img src="img/next.png" alt="Next_Song">
+                </div>
+            </div>
+        </div> -->
+    </nav>
+
+    <!-- components part-->
     <div class="main">
-        <div class="taskManager function" id="taskManager">
-            <h1 class="title">Task Manager</h1>
+
+        <!-- task list function -->
+        <div class="taskList function" id="taskList">
+            <h1 class="title">Task List</h1>
             <div class="content">
                 
             </div>
             
         </div>
-        <div class="flowTimeTracker function" id="flowTimeTracker">
+
+        <!-- flow time tracker function -->
+        <div class="flowTimeTracker function notActivate" id="flowTimeTracker">
             <h1 class="title">Flow Time Tracker</h1>
             <div class="content"></div>
         </div>
-        <div class="kanbanBoard function" id="kanbanBoard">
+
+        <!-- kanban board function -->
+        <div class="kanbanBoard function notActivate" id="kanbanBoard">
             <h1 class="title">Kanban Board</h1>
             <div class="content"></div>
         </div> 
-        <div class="dictionary function" id="dictionary">
+
+        <!-- dictionary function -->
+        <div class="dictionary function notActivate" id="dictionary">
             <h1 class="title">Dictionary</h1>
             <div class="content"></div>
         </div>
