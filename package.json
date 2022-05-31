@@ -1,11 +1,13 @@
 {
-  "name": "studbud",
+  "name": "node-server-parcel",
   "version": "1.0.0",
   "description": "studbud",
-  "main": "server.js",
+  "main": "dist/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "prestart": "parcel build ./public/index.html",
+    "dev":"parcel serve ./public/index.html"
   },
   "repository": {
     "type": "git",
@@ -25,6 +27,6 @@
     "sass": "^1.51.0"
   },
   "devDependencies": {
-    "parcel": "^2.0.0-rc.0"
+    "parcel": "^2.0.0-beta.2"
   }
 }
