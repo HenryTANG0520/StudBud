@@ -27,7 +27,6 @@
   margin-left: 25%;
   /* Same as the width of the sidenav */
   font-size: 28px;
-  // display: none;
 }
 
 .function {
@@ -45,4 +44,8 @@
 
 .content {
   margin-bottom: 50%;
+}
+
+.notActive{
+  display: none;
 }
