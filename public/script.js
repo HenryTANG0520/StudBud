@@ -1,5 +1,5 @@
 import "./js/taskList";
-import "./js/flowTimeTracker";
+import "./js/pomodoro";
 import "./js/kanban";
 import "./js/dictionary";
 import "./js/music";
