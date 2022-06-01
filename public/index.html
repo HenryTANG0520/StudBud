@@ -27,17 +27,17 @@
            
             <img src="img/portrait.JPG" alt="userPortrait" id="portrait">
         </div>
-        <div class="functionList">
-            <a href="#taskList">
+        <div class="functionList" id="fList">
+            <a href="#" >
                 <h2>Task List</h2>
             </a>
-            <a href="#pomodoro">
+            <a href="#" class="activate">
                 <h2>Pomodoro</h2>
             </a>
-            <a href="#kanbanBoard">
+            <a href="#">
                 <h2>Kanban Board</h2>
             </a>
-            <a href="#dictionary">
+            <a href="#">
                 <h2>Dictionary</h2>
             </a>
         </div>
@@ -60,10 +60,10 @@
     </nav>
 
     <!-- components part-->
-    <div class="main">
+    <div class="main" id="cDiv">
 
         <!-- task list function -->
-        <div class="taskList function" id="taskList">
+        <div class="function contentHide" id="taskList">
             <h1 class="title">Task List</h1>
             <div class="content">
                 
@@ -72,19 +72,21 @@
         </div>
 
         <!-- pomodoro function -->
-        <div class="pomodoro function notActivate" id="pomodoro">
-            <h1 class="title">Pomodoro</h1>
-            <div class="content"></div>
+        <div class="function contentShow" id="pomodoro">
+            <div class="box">
+                <h1 class="title">Pomodoro</h1>
+                <div class="content"></div>
+            </div>
         </div>
 
         <!-- kanban board function -->
-        <div class="kanbanBoard function notActivate" id="kanbanBoard">
+        <div class="function contentHide" id="kanbanBoard">
             <h1 class="title">Kanban Board</h1>
             <div class="content"></div>
         </div> 
 
         <!-- dictionary function -->
-        <div class="dictionary function notActivate" id="dictionary">
+        <div class="function contentHide" id="dictionary">
             <h1 class="title">Dictionary</h1>
             <div class="content"></div>
         </div>

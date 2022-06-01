@@ -12,17 +12,20 @@
 
   .account {
 
-    .text{
+    .text {
       margin-left: 1em;
       float: left;
       font-size: 2em;
-      #greeting{       
+
+      #greeting {
         font-weight: 100;
       }
-      #userName{
+
+      #userName {
         color: #fff;
       }
     }
+
     img {
       width: 100px;
       height: 100px;
@@ -38,7 +41,7 @@
 
     background-color: #808080;
     border-radius: 10px;
-    
+
     a {
       padding: 0.5em 1em;
       text-decoration: none;
@@ -51,7 +54,10 @@
         color: #ffffff;
       }
     }
+
+
   }
+
   // .musicPlayer{
   //   margin: 1em;
   //   padding: 1em;
@@ -79,25 +85,48 @@
   margin-left: 25%;
   font-size: 28px;
   height: 100%;
+
+  .function {
+    margin: 1em;
+    padding: 1%;
+
+    height: 50%;
+
+    border-color: #ccc;
+    border-radius: 10px;
+    height: 90%;
+    background-color: #ccc;
+
+    .box {
+      .content {
+        margin-bottom: 58%;
+      }
+    }
+
+  }
+
 }
 
-.function {
-  margin: 1em;
-  padding: 1%;
-  
-  height: 50%;
 
-  border-color: #ccc;
+
+
+// for chosen navibar elements
+
+.activate {
+  background-color: #c8c8c8;
   border-radius: 10px;
-  height: 90%;
-  background-color: #ccc;
+
+  h2 {
+    color: #707070;
+  }
 }
 
-.content {
-  margin-bottom: 58%;
-  
+// for chosen elements and hidden elements
+
+.contentShow {
+  display: block;
 }
 
-.notActivate {
+.contentHide {
   display: none;
 }
