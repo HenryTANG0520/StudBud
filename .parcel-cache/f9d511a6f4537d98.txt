@@ -1,4 +1,4 @@
-19958
+19972
 113C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt132984651875004194 0
 81C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\actual\string\bold.js132984651864124197 0
 78C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\number-is-nan\package.json132984694904214054 0
@@ -18,7 +18,7 @@
 73C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\isArguments.js132984651876934288 0
 73C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\stream-http\README.md132984651793985720 0
 86C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\postcss-load-config\src\plugins.js132984673496003676 0
-51C:\Users\Henry\Desktop\2017 A3\StudBud\package.json132984746505208367 0
+51C:\Users\Henry\Desktop\2017 A3\StudBud\package.json132985359114169123 0
 69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\nan\nan_private.h132984651805565724 0
 71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\_baseKeys.js132984651818345723 0
 82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\es\instance\pad-end.js132984651913704205 0
@@ -39,7 +39,7 @@
 74C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\parent-module\index.js132968470912666367 0
 82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\svgo\plugins\removeComments.js132968470932695729 0
 77C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\json-source-map\README.md132984651793985720 0
-43C:\Users\Henry\Desktop\2017 A3\StudBud\dist132985307615457738 1
+43C:\Users\Henry\Desktop\2017 A3\StudBud\dist132985352964786997 1
 65C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\gauge\spin.js132984694910344061 0
 113C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\postcss-modules-extract-imports\node_modules\has-flag\license132984651843124185 0
 79C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\node-forge\lib\tlssocket.js132984651819095740 0
@@ -126,7 +126,7 @@
 45C:\Users\Henry\Desktop\2017 A3\StudBud\public132985043753079684 1
 78C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\tr46\node_modules\punycode132984651766405709 1
 82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2021\InLeapYear.js132984651874504194 0
-55C:\Users\Henry\Desktop\2017 A3\StudBud\public\script.js132985303712850716 0
+55C:\Users\Henry\Desktop\2017 A3\StudBud\public\script.js132985335872009957 0
 104C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sharp\vendor\8.10.6\include\harfbuzz\hb-aat-layout.h132612604640000000 0
 74C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\pretty-hrtime\index.js132984673495523668 0
 101C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lmdb-store\prebuilds\darwin-arm64\node.abi93.node132984651872784209 0
@@ -199,7 +199,7 @@
 70C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\chokidar\README.md132969160592737241 0
 75C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\mimic-response\index.js132984694905244045 0
 117C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\list.js132984651849024196 0
-56C:\Users\Henry\Desktop\2017 A3\StudBud\public\index.html132985307520010651 0
+56C:\Users\Henry\Desktop\2017 A3\StudBud\public\index.html132985339386526268 0
 73C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\_hashDelete.js132984651863554172 0
 74C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\is-accessor-descriptor132984651766045730 1
 85C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\caniuse-lite\data\features\u2f.js132984651882864256 0
@@ -220,17 +220,6 @@
 60C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\elliptic132984651804955712 1
 73C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\components\kanban.scss132984715922516924 0
 87C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\domelementtype\lib\esm\package.json132968470908356389 0
-76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\log-symbols\package.json132984651763455725 0
-102C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\posthtml\node_modules\posthtml-parser\package.json132968470957705725 0
-61C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\js-tokens132968470911506395 1
-82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\css-what\lib\es\index.d.ts.map132968470917556401 0
-69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yargs\browser.mjs132984673498033669 0
-72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\cli-cursor\readme.md132984651766355715 0
-71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\remove.js132984651883104212 0
-97C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yargs-parser\build\lib\tokenize-arg-string.js132984673495493656 0
-77C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\content-type\package.json132968424596853997 0
-82C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\components\flowtimetracker.scss132984716044473019 0
-90C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\instance\trim-left.js132984651930081403 0
 58C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\assert132984651791355720 1
 68C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-util-is\lib132984651769575716 1
 86C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\highlight.js\lib\languages\bash.js132984651834135696 0
@@ -248,7 +237,7 @@
 94C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2015\CreateIterResultObject.js132984651863664195 0
 89C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\y18n\build\lib\platform-shims\node.js132984673495403663 0
 114C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\tar-stream\node_modules\readable-stream\experimentalWarning.js132984694910364042 0
-48C:\Users\Henry\Desktop\2017 A3\StudBud\public\js132984874071893494 1
+48C:\Users\Henry\Desktop\2017 A3\StudBud\public\js132985328642535346 1
 73C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\parseInt.js132984651881734183 0
 73C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\detect-libc\README.md132984651842544207 0
 78C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\isSafeInteger.js132984651878624212 0
@@ -319,7 +308,7 @@
 91C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sharp\vendor\8.10.6\include\vips\type.h132612604640000000 0
 89C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\iterator\to-async.js132984651921894187 0
 81C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\full\regexp\sticky.js132984651919384203 0
-61C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\components132984877185741599 1
+61C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\components132985327297399651 1
 89C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\caniuse-lite\data\features\colr-v1.js132984651834235699 0
 74C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\minimist\test\short.js132984651793055702 0
 95C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\object\get-prototype-of.js132984651902454260 0
@@ -355,7 +344,7 @@
 67C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\vary\HISTORY.md132968424601193959 0
 84C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yaml\dist\PlainValue-ec8e588e.js132968470928565749 0
 82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\postcss-cli\node_modules\slash132984673495323674 1
-62C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\layout.scss132985291205127658 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\layout.scss132985359542176142 0
 80C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\body-parser\lib\types\raw.js132968424601753950 0
 64C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\is-plain-obj132984651778885732 1
 92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@nodelib\fs.scandir\out\adapters\fs.d.ts132984651795335727 0
@@ -374,7 +363,7 @@
 76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sshpk\lib\certificate.js132984651788445697 0
 78C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2015\ToInt8.js132984651897314277 0
 103C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\jsdom\lib\jsdom\living\events\ProgressEvent-impl.js132984651815505716 0
-60C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\main.scss132984877257065730 0
+60C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\main.scss132985327442161498 0
 98C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@parcel\node-resolver-core\node_modules\braces132984651842764193 1
 92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\stylehacks\src\dictionary\identifiers.js132984651788475705 0
 60C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\msgpackr132984651807425714 1
@@ -398,6 +387,26 @@
 80C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\uri-js\node_modules\punycode132984651766385706 1
 80C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2021\MakeDate.js132984651880974194 0
 86C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\json-schema-traverse\.eslintrc.yml132984651760215715 0
+69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yaml\parse-cst.js132968470927185730 0
+92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\uncss\node_modules\postcss\lib\parser.js132984651844884173 0
+65C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash.sortby132984651843484147 1
+95C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\jsdom\lib\jsdom\living\helpers\traversal.js132984651868134184 0
+69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\util\package.json132984651793285744 0
+71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\invert.js132984651876574176 0
+72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\constants-browserify132984651791355720 1
+107C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gobject\gbinding.h132612604640000000 0
+83C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\es.math.sign.js132984651877904170 0
+71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\split2\node_modules132984651730105703 1
+74C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\assocPath.js132984651868264277 0
+70C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\.package-lock.json132984746505748377 0
+80C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\posthtml-parser\changelog.md132984651803905706 0
+79C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\5\msFromTime.js132984651882284206 0
+78C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\full\symbol\for.js132984651898844370 0
+72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@parcel\workers\test132984651816545702 1
+58C:\Users\Henry\Desktop\2017 A3\StudBud\public\img\logo.png132984752298203927 0
+91C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yargs\build\lib\completion-templates.js132984673496793652 0
+89C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\highlight.js\lib\languages\fortran.js132984651859644259 0
+75C:\Users\Henry\Desktop\2017 A3\StudBud\public\scss\components\pomodoro.scss132985352745655037 0
 82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\type-fest\source\value-of.d.ts132968470930605737 0
 78C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\side-channel\test\index.js132968424599483943 0
 87C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\postcss-calc\src\lib\convertUnit.js132984651784975713 0
@@ -453,10 +462,6 @@
 94C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\stable\array-buffer\constructor.js132984651868514204 0
 101C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@babel\core\lib\config\resolve-targets-browser.js132984651808365691 0
 77C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\xmlchars\xml\1.1\ed2.d.ts132984651793455694 0
-62C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\pascalcase132984651764465691 1
-107C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mtest6.c132984651821445693 0
-102C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\serve-handler\node_modules\mime-types\package.json132984651836734165 0
-67C:\Users\Henry\Desktop\2017 A3\StudBud\public\js\flowTimeTracker.js132984873571334860 0
 71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\toPath.js132984651886194173 0
 83C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\purgecss\node_modules\commander132984651841124186 1
 92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\cssstyle\lib\properties\borderSpacing.js132984651809045705 0
@@ -491,23 +496,14 @@
 84C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\is-fullwidth-code-point\index.js132984651761745702 0
 76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\extsprintf\jsl.node.conf132984651846194184 0
 57C:\Users\Henry\Desktop\2017 A3\StudBud\public\js\music.js132984874071893494 0
-69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yaml\parse-cst.js132968470927185730 0
-92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\uncss\node_modules\postcss\lib\parser.js132984651844884173 0
-65C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash.sortby132984651843484147 1
-95C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\jsdom\lib\jsdom\living\helpers\traversal.js132984651868134184 0
-69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\util\package.json132984651793285744 0
-71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\invert.js132984651876574176 0
-72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\constants-browserify132984651791355720 1
-107C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gobject\gbinding.h132612604640000000 0
-83C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\es.math.sign.js132984651877904170 0
-71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\split2\node_modules132984651730105703 1
-74C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\assocPath.js132984651868264277 0
-70C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\.package-lock.json132984746505748377 0
-80C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\posthtml-parser\changelog.md132984651803905706 0
-79C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\5\msFromTime.js132984651882284206 0
-78C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\full\symbol\for.js132984651898844370 0
-72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@parcel\workers\test132984651816545702 1
-58C:\Users\Henry\Desktop\2017 A3\StudBud\public\img\logo.png132984752298203927 0
+92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\full\typed-array\uint16-array.js132984651931991413 0
+61C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\minimatch132984651763455725 1
+90C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\whatwg-url\lib\URLSearchParams-impl.js132968470912576386 0
+76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\es\math\clz32.js132984651865354205 0
+88C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\tar-fs\test\fixtures\d\sub-dir\file5132984694909564049 0
+72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\replace.js132984651883204219 0
+60C:\Users\Henry\Desktop\2017 A3\StudBud\public\js\pomodoro.js132985341160091838 0
+87C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\parse5\lib\tree-adapters\default.js132984651807885694 0
 65C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\react-refresh132968470921295795 1
 72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\svgo\lib\svgo\coa.js132968470924725742 0
 61C:\Users\Henry\Desktop\2017 A3\StudBud\public\img\logo_Sq.png132984753012071081 0
@@ -1663,6 +1659,7 @@
 159C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2\subfile.js132984651838694171 0
 72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\create-hmac\index.js132984651781155724 0
 122C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\container.js132984651853084200 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.8acc0fc4.css132985352964747375 0
 97C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@babel\generator\lib\generators\statements.js132984651797615701 0
 106C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gdbusserver.h132612604640000000 0
 66C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\extend-shallow132984651767865697 1
@@ -2221,6 +2218,15 @@
 107C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\caniuse-lite\data\features\document-scrollingelement.js132984651867534190 0
 62C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\parse-json132968470914606369 1
 94C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\proposals\object-values-entries.js132984651913464163 0
+76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\log-symbols\package.json132984651763455725 0
+102C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\posthtml\node_modules\posthtml-parser\package.json132968470957705725 0
+61C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\js-tokens132968470911506395 1
+82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\css-what\lib\es\index.d.ts.map132968470917556401 0
+69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yargs\browser.mjs132984673498033669 0
+72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\cli-cursor\readme.md132984651766355715 0
+71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\remove.js132984651883104212 0
+97C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yargs-parser\build\lib\tokenize-arg-string.js132984673495493656 0
+77C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\content-type\package.json132968424596853997 0
 86C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\es\array-buffer\is-view.js132984651909524157 0
 68C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\type-fest\source132968470930575760 1
 82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\create-ecdh\node_modules\bn.js132984651834435699 1
@@ -2359,8 +2365,6 @@
 74C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\util-deprecate\node.js132984651766345724 0
 66C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\mimic-response132984694906804059 1
 84C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\cssstyle\lib\properties\right.js132984651819065699 0
-92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\full\typed-array\uint16-array.js132984651931991413 0
-61C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\minimatch132984651763455725 1
 101C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@babel\core\lib\transformation\util\clone-deep.js132984651816615724 0
 56C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\urix132984651768685735 1
 76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\_copySymbolsIn.js132984651850774198 0
@@ -2518,6 +2522,7 @@
 77C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@parcel\utils\src\blob.js132984651807825727 0
 60C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\parseurl132968424601353968 1
 72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\format\format-min.js132984651774295738 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\pascalcase132984651764465691 1
 74C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\mdn-data\l10n\css.json132968470923055762 0
 95C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\performance-now\test\performance-now.coffee132984651788445697 0
 67C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\path-browserify132984651805365699 1
@@ -3270,8 +3275,6 @@
 94C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sharp\vendor\8.10.6\include\gdk-pixbuf-2.0132612604640000000 1
 67C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yargs\build\lib132984673497633691 1
 77C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\vm-browserify\example\run132984651792875718 1
-91C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\yargs\build\lib\completion-templates.js132984673496793652 0
-89C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\highlight.js\lib\languages\fortran.js132984651859644259 0
 71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\is-docker\readme.md132984651766355715 0
 92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\create-ecdh\node_modules\bn.js\lib\bn.js132984651834025748 0
 95C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sharp\vendor\8.10.6\include\aom\aom_codec.h132612604640000000 0
@@ -3718,8 +3721,6 @@
 87C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\whatwg-url\lib\url-state-machine.js132968470908386397 0
 87C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2017\QuoteJSONString.js132984651884944176 0
 94C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2019\OrdinarySetPrototypeOf.js132984651884444178 0
-90C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\whatwg-url\lib\URLSearchParams-impl.js132968470912576386 0
-76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\es\math\clz32.js132984651865354205 0
 85C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\whatwg-url\lib\URLSearchParams.js132968470913606404 0
 93C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\highlight.js\styles\atelier-cave-dark.css132984651792395708 0
 87C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\internals\is-constructor.js132984651908094226 0
@@ -5133,7 +5134,6 @@
 90C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\tar-fs\test\fixtures\d\sub-files\file4132984694909014061 0
 70C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\indexes-of\LICENSE132984651763115706 0
 106C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\postcss-selector-parser\dist\selectors\constructors.js132984651772475715 0
-88C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\tar-fs\test\fixtures\d\sub-dir\file5132984694909564049 0
 76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\tar-fs\test\fixtures\b\a132984694912464037 1
 93C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\sharp\vendor\8.10.6\include\vips\memory.h132612604640000000 0
 70C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\pbkdf2\lib\sync.js132984651792295722 0
@@ -7509,6 +7509,8 @@
 96C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\cssstyle\lib\properties\textOverlineColor.js132984651819705720 0
 101C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\serve-handler\node_modules\minimatch\minimatch.js132984651840644283 0
 98C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\serve-handler\node_modules\mime-types\index.js132984651838734182 0
+107C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mtest6.c132984651821445693 0
+102C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\serve-handler\node_modules\mime-types\package.json132984651836734165 0
 94C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\serve-handler\node_modules\mime-db\db.json132984651840694201 0
 66C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\glob\README.md132984651783505706 0
 94C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\serve-handler\node_modules\mime-db\LICENSE132984651844644202 0
@@ -7593,6 +7595,7 @@
 98C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\esnext.iterator.constructor.js132984651883524175 0
 73C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\safer-buffer\safer.js132968424598623954 0
 73C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\cliui\build\index.cjs132984673494753671 0
+66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.ab3e4c9d.css.map132985346278051466 0
 67C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\json5\README.md132984651792975712 0
 71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\safe-regex\index.js132984651763615719 0
 119C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\has-values\node_modules\is-number\node_modules\kind-of\package.json132984651825615709 0
@@ -9652,8 +9655,6 @@
 128C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@parcel\node-libs-browser\node_modules\readable-stream\lib\_stream_duplex.js132984651760655714 0
 76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\parse5\lib\tree-adapters132984651807825727 1
 68C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\parse5\lib\utils132984651808325705 1
-87C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\parse5\lib\tree-adapters\default.js132984651807885694 0
-72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\replace.js132984651883204219 0
 92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\esnext.set.difference.js132984651885304245 0
 69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lodash\fp\juxt.js132984651879114182 0
 93C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\parse5\lib\tokenizer\named-entity-data.js132984651807255696 0
@@ -11476,6 +11477,7 @@
 69C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lmdb-store\assets132984651874604187 1
 83C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\stable\instance\trim.js132984651931311397 0
 76C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\follow-redirects\http.js132984651779765715 0
+66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.346192f2.css.map132985347688225088 0
 73C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lmdb-store\index.d.ts132984651874774197 0
 71C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lmdb-store\index.js132984651848884175 0
 72C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\lmdb-store\index.mjs132984651858974195 0
@@ -11921,7 +11923,7 @@
 81C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\crypto-browserify\.travis.yml132984651786585696 0
 105C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\jsdom\lib\jsdom\living\generated\EventModifierInit.js132984651826145696 0
 91C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\es\string\virtual\trim-right.js132984651930541434 0
-54C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.html132985307615437742 0
+54C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.html132985352964747375 0
 96C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\jsdom\lib\jsdom\living\generated\External.js132984651827725696 0
 96C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\jsdom\lib\jsdom\living\generated\FileList.js132984651829515706 0
 98C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\jsdom\lib\jsdom\living\generated\FocusEvent.js132984651831735686 0
@@ -14389,6 +14391,7 @@
 92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2020\IsAccessorDescriptor.js132984651875444161 0
 81C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\@types\node\dns\promises.d.ts132984651803825701 0
 88C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\stable\array-buffer\slice.js132984651916934201 0
+66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.8acc0fc4.css.map132985352964777234 0
 79C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2020\IsArray.js132984651875604169 0
 82C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2020\IsCallable.js132984651876114176 0
 102C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\es-abstract\2020\IsCompatiblePropertyDescriptor.js132984651876394290 0
@@ -16196,6 +16199,7 @@
 94C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\esnext.math.rad-per-deg.js132984651884474167 0
 90C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\esnext.number.range.js132984651884624243 0
 92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\esnext.object.has-own.js132984651884654193 0
+66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.4f95b517.css.map132985346679464095 0
 97C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\esnext.object.iterate-keys.js132984651884714173 0
 99C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\esnext.object.iterate-values.js132984651884734196 0
 100C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\modules\esnext.observable.constructor.js132984651884754191 0
@@ -16976,6 +16980,7 @@
 87C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\instance\splice.js132984651918804185 0
 92C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\instance\starts-with.js132984651919154216 0
 91C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\instance\to-spliced.js132984651926492704 0
+90C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\instance\trim-left.js132984651930081403 0
 91C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\instance\trim-right.js132984651930551419 0
 88C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\instance\un-this.js132984651932511463 0
 90C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\core-js\features\instance\unique-by.js132984651932811456 0
@@ -19953,7 +19958,16 @@
 66C:\Users\Henry\Desktop\2017 A3\StudBud\node_modules\.bin\which.ps1132984651939261399 0
 62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.05e3aefb.css132985285425214534 0
 66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.05e3aefb.css.map132985285425294548 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.346192f2.css132985347688175049 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.3cea865a.css132985350533120283 0
+66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.3cea865a.css.map132985350533170260 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.4f95b517.css132985346679444093 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.71fe5c63.css132985336965503331 0
+66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.71fe5c63.css.map132985336965553448 0
 62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.81c2bd42.css132985291091932775 0
 66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.81c2bd42.css.map132985291091982717 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.a78355f4.css132985343984249834 0
+66C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.a78355f4.css.map132985343984299979 0
+62C:\Users\Henry\Desktop\2017 A3\StudBud\dist\index.ab3e4c9d.css132985346278011463 0
 64C:\Users\Henry\Desktop\2017 A3\StudBud\dist\logo_Sq.833e4cc3.ico132985285425214534 0
 65C:\Users\Henry\Desktop\2017 A3\StudBud\dist\portrait.4d80cf51.JPG132985285425137658 0
