@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="scss/main.scss" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="script.js"></script>
     <meta http-equiv="Cache-control" content="no-cache">
     <link rel="icon" type="image/x-icon" href="img/logo_Sq.ico">
     <title>Studbud</title>
@@ -14,7 +15,6 @@
 
 <body>
     <nav class="sidenav">
-
         <div class="account">
             <div class="text">
                 <div id="greeting">
@@ -27,20 +27,18 @@
            
             <img src="img/portrait.JPG" alt="userPortrait" id="portrait">
         </div>
-        <div class="functionList" id="fList">
-            <a href="#" >
-                <h2>Task List</h2>
-            </a>
-            <a href="#" class="activate">
-                <h2>Pomodoro</h2>
-            </a>
-            <a href="#">
-                <h2>Kanban Board</h2>
-            </a>
-            <a href="#">
-                <h2>Dictionary</h2>
-            </a>
-        </div>
+        <ul class="tab">
+            <!-- <div id = "tl">Task List</div>
+            <div class="active">Pomodoro</div>
+            <div>Kanban Board</div>
+            <div>Dictionary</div> -->
+            <li class = "active">Task List</li>
+            <li>Pomodoro</li>
+            <li>Kanban Board</li>
+            <li>Dictionary</li>
+          
+                
+        </ul>
 
         <!-- <div class="musicPlayer">
             <img src="img/music.png" alt="Album_Cover">

@@ -36,13 +36,20 @@
     }
   }
 
-  .functionList {
+  .tab {
     margin: 50% 1em;
 
     background-color: #808080;
     border-radius: 10px;
 
-    a {
+    .active {
+      background-color: #c8c8c8;
+      border-radius: 10px;
+      color: #707070;
+      
+    }
+    
+    li {
       padding: 0.5em 1em;
       text-decoration: none;
       font-size: 25px;
@@ -108,18 +115,8 @@
 }
 
 
-
-
 // for chosen navibar elements
 
-.activate {
-  background-color: #c8c8c8;
-  border-radius: 10px;
-
-  h2 {
-    color: #707070;
-  }
-}
 
 // for chosen elements and hidden elements
 
