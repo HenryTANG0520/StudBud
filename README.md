@@ -6,11 +6,11 @@
 
 **1. [The original Design](#the-original-design)**
 
-**1. [Problems Encountered](#problems-encountered)**
+**2. [Problems Encountered](#problems-encountered)**
 
-**1. [Development Roadmap](#development-roadmap)**
+**3. [Development Roadmap](#development-roadmap)**
 
-**1. [Reflection](#reflection)**
+**4. [Reflection](#reflection)**
 
 ---
 
