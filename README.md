@@ -4,6 +4,8 @@
 
 ---
 
+**Table of contents**
+
 **1. [The original Design](#the-original-design)**
 
 **2. [Problems Encountered](#problems-encountered)**
@@ -11,6 +13,8 @@
 **3. [Development Roadmap](#development-roadmap)**
 
 **4. [Reflection](#reflection)**
+
+**5. [Reference Links](#reference-links)**
 
 ---
 
@@ -106,6 +110,50 @@ From the above section you may noticed, why would I studcked in doing pomodoro w
 
 It is because I cannot figure out how to put the effect I want on the time flow. So I changed to Pomodoro as it sounds easier
 
+### **Iteration**s of this unfinished work are listed below
 
+>This is the **html version**
+>![htmlPreview](img/html1.png "htmlPreview")
+>This is the **XD prototype**
+>![FlowTimeTracker](img/flowTimeTracker.png "flowTimeTracker")
+
+>1. User profile from **round** to **rounded rectangle**
+>1. Canceled the **frosted glass testure**
+>1. Side navigation style from **embedded highlighting active** to **equal-width highlighting**
+>1. Changed the funciton **Flow Time Tracker** to **Pomodoro**
+
+---
 
 ## Reflection
+
+About this Assignment, this is a failed project
+
+It is not finished due to the following reasons
+>1. Did not catch up the lecture and learnt very little JS knowledge
+>1. When failed to debug, I lost my patience and faith/confidence
+>1. I did not arrange my time well
+>1. I have a part-time job which took most of my time(though that could be an excuse)
+
+To make up these mistakes I made, prevent similar things from happening again, I shall use my time from this break to do the following things
+>1. Study DOM manipulation
+>1. Restart the STUDBUD project and make it fits the prototype
+>1. Learn the real time management
+>1. Make DECO1016's static pages interactable by linking JavaScript files into it to practice the use of JS
+
+---
+
+## Reference Links
+
+1. (2022). Retrieved 4 June 2022, from https://www.youtube.com/watch?v=qWjEUO8C3LY
+
+1. Draggable Kanban Boards In Vanilla JavaScript - jKanban | CSS Script. (2022). Retrieved 4 June 2022, from https://www.cssscript.com/draggable-kanban-board/
+
+1. How to Build a Todo List App With Javascript and Local Storage. (2022). Retrieved 4 June 2022, from https://thecodingpie.medium.com/how-to-build-a-todo-list-app-with-javascript-and-local-storage-a884f4ea3ec
+
+1. Isaiah, A. (2022). How to build a Pomodoro Timer App with JavaScript. Retrieved 4 June 2022, from https://freshman.tech/pomodoro-timer/
+
+1. Isaiah, A. (2022). How to build a Todo List App with JavaScript. Retrieved 4 June 2022, from https://freshman.tech/todo-list/
+
+1. Learn To Build a Simple Dictionary Application Using JavaScript. (2022). Retrieved 4 June 2022, from https://www.makeuseof.com/build-dictionary-app-using-javascript/
+
+1. 使用js实现tab选项卡效果_葡萄干是个程序员的博客-CSDN博客_js tab. (2022). Retrieved 4 June 2022, from https://blog.csdn.net/qq_15096707/article/details/50605671
